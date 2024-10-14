@@ -1,6 +1,12 @@
 # Repo para EIEC - DevOps - UNIR
+Participantes:
+Karen Pucci
+Joshua Taranto
+Cristina Diaz
+Andres Alvarado
 
 Este repositorio nos servirá para demostrar el uso de Git en la asignatura de EIEC y muchas cosas mas.
+
 
 ---
 
