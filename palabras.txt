@@ -6,3 +6,6 @@ perro
 gato
 hormiga
 sapo
+sopa
+lorem
+ipsum
